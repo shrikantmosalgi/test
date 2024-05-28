@@ -9,7 +9,7 @@ public class MainApp {
 		int c=0,d=0;
 		c=a+b;
 		System.out.println("addition is:"+c);
-		d= c*b;
+		d=c*b;
 		System.out.println("multiplication is:"+d);
 	}
 
