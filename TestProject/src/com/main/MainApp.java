@@ -8,9 +8,9 @@ public class MainApp {
 		int b=10;
 		int c=0,d=0;
 		c= a+b;
-		System.out.println(c);
+		System.out.println("addition is "+c);
 		d= c*b;
-		System.out.println(d);
+		System.out.println("multiplication is "+d);
 	}
 
 }
