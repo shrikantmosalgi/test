@@ -7,7 +7,7 @@ public class MainApp {
 		int a=70;
 		int b=10;
 		int c=0,d=0;
-		c=a+b;
+		c= a+b;
 		System.out.println("addition is:"+c);
 		d=c*b;
 		System.out.println("multiplication is:"+d);
