@@ -11,4 +11,4 @@ git push -u origin main
 
 for generating password go to profile -setting-devloper setting -generate new token
 
-current password - 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
+current password - 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
